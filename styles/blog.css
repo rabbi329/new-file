@@ -1,9 +1,19 @@
 
 header{
     height: 400px;
-    width: 400px;
-    background-image: url(travleimg.jpg);
-    display: cover;
+    
+    background-image: url(../wine\ \(1\).jpg);
+    background-size: cover
+    ;
+    box-sizing: border-box;
+    font-size: larger;
+    text-align: center;
+    color: chartreuse;
+    border-radius: 60px;
+    padding: auto;
+    box-shadow: 20px 20px 20px  tomato;
+    
+
 }
 h1{
     text-align: center;
@@ -11,6 +21,7 @@ h1{
     border: 10px solid;
     border-color:blueviolet;
     border-radius: 10px;
+    background-color: aquamarine;
 
 }
 *{
@@ -22,4 +33,19 @@ h2{
     border:5px solid;
     border-radius: 50px;
     border-color:darkcyan;
+    background-color: blueviolet;
+}
+div{
+    background-color: rgb(212, 212, 9);
+    margin: 5px;
+    padding:10px;
+    height: 200px;
+    width: 400px;
+}
+.bug{
+    background-color: red;
+    box-align: initial;
+    height: 200px;
+    width: 200px;
+    text-decoration: darksalmon;
 }
