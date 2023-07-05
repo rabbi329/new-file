@@ -1,0 +1,25 @@
+
+header{
+    height: 400px;
+    width: 400px;
+    background-image: url(travleimg.jpg);
+    display: cover;
+}
+h1{
+    text-align: center;
+    color:firebrick;
+    border: 10px solid;
+    border-color:blueviolet;
+    border-radius: 10px;
+
+}
+*{
+    margin:5px solid;
+}
+h2{
+    text-align: center;
+    color:blue;
+    border:5px solid;
+    border-radius: 50px;
+    border-color:darkcyan;
+}
